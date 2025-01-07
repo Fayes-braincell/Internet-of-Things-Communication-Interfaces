@@ -38,20 +38,20 @@ IoT and Communications Protocols
 - IoT devices use IPv6 to securely connect and communicate and HTTP/HTTPS to exchange information securely on the internet.  
 - IoT devices are the same as any other internet-connected device, the only thing that changes it is the bandwidth, power and transmission distance from the connectivity.   
 
-How IoT Interfaces work with Web Servers
+*How IoT Interfaces work with Web Servers*
 
 Wifi connects IoT devices to Web servers while Bluetooth needs gateway devices (smart/tablet, smart hubs, or industrial gateways) for internet access but serve different purposes in IoT systems.
 
 IoT devices use Bluetooth to send data to nearby gateways, like phones, with Wi-Fi devices that connect to the internet and also communicate with servers for data sharing and also remote control.
 
-How IoT devices impact the speed and performance of the internet
+*How IoT devices impact the speed and performance of the internet*
 
 Negative Impacts: can increase network congestion (too many devices in the Wi-fi), consuming bandwidth, and cause latency issues (delay in responsiveness of internet).  
 It can strain the internet by generating a lot of data, making it slower for it to load pages.   
 Positive Impacts: Drives innovation in network technologies (like 5G and edge computing) to handle traffic more efficiently.  
 It can improve efficiency by improving internet performance by optimizing progress.
 
-How do browsers help show or manage IoT data
+*How do browsers help show or manage IoT data*
 
 - Browsers provide a visual interface for displaying IoT data and controlling devices.  
 - They enable secure access to real-time updates, and remote management via cloud-hosted applications or local interface.  
