@@ -1,1 +1,1 @@
-# Internet-of-Things-Communication-Interfaces
+# Internet-of-Things-and-Communication-Interfaces
